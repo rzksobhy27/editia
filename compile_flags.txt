@@ -1,0 +1,9 @@
+-xc
+-Wall
+-Wextra
+-pedantic
+-std=c11
+-Ilib/glad/include/
+-Ilib/glfw/include/
+-Ilib/cglm/include/
+-Ilib/stb_image/
